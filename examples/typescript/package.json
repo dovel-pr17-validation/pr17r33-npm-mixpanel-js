@@ -1,0 +1,12 @@
+{
+  "name": "mixpanel-typescript-example",
+  "version": "1.0.0",
+  "description": "Example using Mixpanel builds with TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "5.9.2"
+  }
+}

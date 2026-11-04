@@ -1,0 +1,13 @@
+/build
+node_modules
+npm-debug.log
+tunnel.log
+.idea
+.jshintignore
+.jshintrc
+*.swp
+*.ps1
+*.bundle.js
+.DS_Store
+/tests/browser/results/
+/tests/unit/results/
