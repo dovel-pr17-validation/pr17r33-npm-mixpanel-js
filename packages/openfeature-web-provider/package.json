@@ -19,7 +19,7 @@
     "mixpanel-browser": "^2.79.0"
   },
   "devDependencies": {
-    "@openfeature/web-sdk": "1.7.2",
+    "@openfeature/web-sdk": "1.10.0",
     "@types/chai": "4.3.20",
     "@types/mocha": "10.0.10",
     "@types/node": "20.19.33",
